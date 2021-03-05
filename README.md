@@ -1,2 +1,2 @@
-# Sample JS Pakcage
+# Sample JS Package
 Creating sample JS framework.
