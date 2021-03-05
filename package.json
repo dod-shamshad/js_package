@@ -1,0 +1,11 @@
+{
+  "name": "js_package",
+  "version": "1.0.0",
+  "description": "Javascript Sample Package",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamshad Zaheer",
+  "license": "ISC"
+}
