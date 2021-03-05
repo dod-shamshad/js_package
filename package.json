@@ -1,6 +1,6 @@
 {
   "name": "js_package_test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript Sample Package",
   "main": "package.js",
   "scripts": {
